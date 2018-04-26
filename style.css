@@ -27,7 +27,8 @@
 }
 
 #institucional,
-#serviços{
+#serviços,
+#noticias{
 	text-align: center;
 	padding: 60px 0;
 
@@ -49,4 +50,17 @@
 .primeira{
 	color: #d63031
 	padding: 60px 0;
+}
+
+#noticias{
+	background-color: #b2bec3;
+
+}
+
+#caixatexto{
+	padding: 60px 0;
+}
+
+.informacoes{
+	text-align: center;
 }
